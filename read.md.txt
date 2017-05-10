@@ -1,0 +1,25 @@
+SAMPLE JAVA PROGRAM
+
+ 	A sample java code to print HELLO WORLD message on the console
+
+Code Example
+
+	.java files, jdk1.8.0._131
+
+Installation 
+
+	Install jdk1.8.0._131 or any other leatesrt version and set the environmental path to run the java file on comand prompt 
+and the .java file to be executed 
+
+Tests 
+
+	To test the code open the commad prompt and give and set the path where the .java file is existed and then given the commands 
+    javac filename.java (.java files wil be converted to .class files)
+    java filename       (.class file will be executed andd the result wil be displayed on the console)
+
+
+    
+
+
+
+
